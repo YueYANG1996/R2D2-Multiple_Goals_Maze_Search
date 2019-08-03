@@ -1,7 +1,8 @@
 # R2D2-Multiple_Goals_Maze_Search
 This project combine the A star and Traveling Salesman Algorithm to generate the shortest path between multiple goals and visualized it on R2D2 platform.
 
-#Function Description
+#Function Description#
+
 graph.py -- input the vertices and edges to generate a map
 
 multiple_Astar.py -- common A star algorithm to calculate the shortest path between two points
