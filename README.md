@@ -1,4 +1,10 @@
 # R2D2-Multiple_Goals_Maze_Search
+This project was the term project of CIS 521 Artificial Intelligence at UPENN.
+The Project include two parts -- 8-Puzzle Game & Multiple Goads Maze Search
+The demo could be watch in: https://www.yueyang.host/copy-of-3d-reconstruction
+
+The set-up process of the working enviroment in MacOS is available on: http://artificial-intelligence-class.org/r2d2_assignments/hw1/homework1.html
+
 This project combine the A star and Traveling Salesman Algorithm to generate the shortest path between multiple goals and visualized it on R2D2 platform.
 
 #Function Description#
